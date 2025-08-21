@@ -40,7 +40,7 @@ education:
   - area: Software Engineering
     institution: WuHan University
     date_start: 2024-09-01
-    date_end: -
+    date_end: 
     summary: |
       GPA: 3.88/4.0
    
